@@ -27,6 +27,20 @@ However, availability on a platform does not itself establish permission to redi
 
 Hut4Devs does not intend this repository to host or redistribute copyrighted books without authorization. Where possible, we link to official, open-access, or otherwise authorized editions.
 
+## Free Stellar Learning Resources
+
+These official resources help contributors learn Stellar fundamentals, payments, assets, and Soroban smart-contract development. Learning materials are free to access; check each platform for any account or tooling requirements. Completing a course or quest does not automatically award a professional certification.
+
+- **[Stellar Quest Learn](https://quest.stellar.org/learn/)**  hands-on, gamified quests covering Stellar accounts, operations, and network fundamentals.
+- **[Stellar Learn](https://stellar.org/learn)**  introductory content covering blockchain, Stellar fundamentals, payments, smart contracts, DeFi, and tokenization.
+- **[Stellar Developer Docs: Interactive Learning](https://developers.stellar.org/docs/learn/interactive)**  interactive learning options, including Stellar Quest and smart-contract tutorials.
+- **[Fast, Cheap, and 0ut 0f Control (FCA00C)](https://developers.stellar.org/docs/learn/interactive/fca00c)**  a six-quest introduction to Stellar smart-contract development.
+- **[Soroban Getting Started](https://developers.stellar.org/docs/build/smart-contracts/getting-started)**  setup, writing a first contract, Testnet deployment, storage, and frontend integration.
+- **[Stellar Smart Contract Examples](https://developers.stellar.org/docs/build/smart-contracts/example-contracts)**  practical examples for studying contract patterns and testing.
+- **[Stellar Developer Documentation](https://developers.stellar.org/)**  official technical references for Stellar concepts, SDKs, tools, and application development.
+
+**Suggested order:** Start with Stellar Learn, practise network operations with Stellar Quest, and then work through the Soroban tutorials and examples. For Hut4Devs contract contributions, record practical evidence such as tests, code review, and Testnet exercises; course completion alone does not establish production readiness.
+
 ## Main Learning Roadmap
 
 Start with:
