@@ -594,6 +594,15 @@ path](https://www.linkedin.com/learning/paths/become-a-software-developer) -
 [AI for Product
 Management](https://www.linkedin.com/learning/topics/ai-for-product-management)
 
+**Free Stellar learning resources**
+
+- [Stellar Quest Learn](https://quest.stellar.org/learn/)  interactive Stellar fundamentals and operations.
+- [Stellar Learn](https://stellar.org/learn)  foundational learning on Stellar, blockchain, payments, and smart contracts.
+- [Stellar Interactive Learning](https://developers.stellar.org/docs/learn/interactive)  interactive learning options.
+- [Fast, Cheap, and 0ut 0f Control (FCA00C)](https://developers.stellar.org/docs/learn/interactive/fca00c)  smart-contract learning quests.
+- [Soroban Getting Started](https://developers.stellar.org/docs/build/smart-contracts/getting-started)  build, test, and deploy contracts.
+- [Stellar Smart Contract Examples](https://developers.stellar.org/docs/build/smart-contracts/example-contracts)  example contracts and implementation patterns.
+- [Stellar Developer Documentation](https://developers.stellar.org/)  official technical reference.
 **Free learning / authoritative references** - [Cisco Introduction to
 Cybersecurity](https://www.netacad.com/courses/introduction-to-cybersecurity) -
 [Microsoft Learn
